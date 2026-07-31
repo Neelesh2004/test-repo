@@ -6,3 +6,4 @@ input_string = "Neelesh"
 vowel_count = count_vowels(input_string)
 print(f"The number of vowels in '{input_string}' is {vowel_count}.")
 
+# rest of code ...
